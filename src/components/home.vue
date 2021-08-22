@@ -5,6 +5,7 @@
     </div>
     <v-card elevation="5" style="margin-bottom:40px">
       <p>
+        Hola
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam qui
         magnam commodi facere nisi, quas explicabo atque ex voluptatum
         aspernatur laboriosam unde amet sed velit provident ratione architecto
